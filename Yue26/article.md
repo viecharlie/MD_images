@@ -27,7 +27,7 @@ Over the past decade, remarkable progress across diverse perovskite-based optoel
 --- Page 3 ---
 
 
-halodo(poly)plumbates,26 have also attracted increasing attention in controlling perovskite crystallization kinetics. Notably, perovskite crystallization is generally nonuniform along the film-thickness direction, as the precursor-derived species are in contact with two distinct interfaces. Differences in surface energy and solvent evaporation rates can lead to markedly different crystallization kinetics. Previous reports have revealed this depth-dependent heterogeneity and suggested that high-quality perovskite films are achieved through unidirectional vertical crystallization, which suppresses grain boundaries formed between vertically stacked crystals along the charge-carrier transport direction.27–33 For example, Wang et al. reported that annealed Cs₀.₀₅FA₀.₈MA₀.₁₅Pb(I₀.₉Br₀.₁)3 perovskite films exhibit a vertically stacked crystal microstructure.28 After 1,1-dioxide hydrochloride (TdCl) was introduced into the precursor solution, a bottom 2D template formed during deposition and guided perovskite crystallization, resulting in a large single-crystal-like grain along the vertical direction and improved photovoltaic performance. However, these previous studies of vertical crystallization have largely relied on ex situ techniques. The roles and evolution of different precursor-derived species during film formation therefore remain unclear. Such information is essential not only for understanding the origins of vertical crystallization heterogeneity but also for guiding the development of strategies to improve perovskite film quality. Here, we investigate depth-dependent crystallization heterogeneity in two prototypical perovskite systems: methylammonium (MA)- and formamidinium (FA)-based perovskites. We develop an in situ photoluminescence (PL) platform to selectively monitor the crystallization process at the film top surface and buried interface during spin coating. We observe distinct PL responses from the two interfacial regions, revealing vertically heterogeneous crystallization dynamics within these perovskite films. Precursor species transform into crystalline phases earlier at the buried interface, suggesting a higher crystallization propensity of buried-interface species. Once formed, however, the perovskite nuclei near the top surface exhibit markedly faster growth than those at the buried interface, consistent with mobility-assisted attachment and coarsening promoted by faster solvent evaporation in the upper region of the wet film. Moreover, in pristine MAPbI₃ wet films, similar PL intensities are detected from the two interfacial regions after anti-solvent dripping, demonstrating that anti-solvent-induced nucleation occurs throughout the entire film thickness. By contrast, buried-interface nucleation is strongly suppressed in wet films prepared from optimized perovskite precursor solutions, highlighting the importance of controlling the stability of buried-interface species to achieve unidirectional crystal growth and prevent the formation of grain boundaries between vertically stacked crystals.
+halodo(poly)plumbates,26 have also attracted increasing attention in controlling perovskite crystallization kinetics. Notably, perovskite crystallization is generally nonuniform along the film-thickness direction, as the precursor-derived species are in contact with two distinct interfaces. Differences in surface energy and solvent evaporation rates can lead to markedly different crystallization kinetics. Previous reports have revealed this depth-dependent heterogeneity and suggested that high-quality perovskite films are achieved through unidirectional vertical crystallization, which suppresses grain boundaries formed between vertically stacked crystals along the charge-carrier transport direction.27–33 For example, Wang et al. reported that annealed Cs0.05FA0.8MA0.15Pb(I₀.₉Br₀.₁)3 perovskite films exhibit a vertically stacked crystal microstructure.28 After 1,1-dioxide hydrochloride (TdCl) was introduced into the precursor solution, a bottom 2D template formed during deposition and guided perovskite crystallization, resulting in a large single-crystal-like grain along the vertical direction and improved photovoltaic performance. However, these previous studies of vertical crystallization have largely relied on ex situ techniques. The roles and evolution of different precursor-derived species during film formation therefore remain unclear. Such information is essential not only for understanding the origins of vertical crystallization heterogeneity but also for guiding the development of strategies to improve perovskite film quality. Here, we investigate depth-dependent crystallization heterogeneity in two prototypical perovskite systems: methylammonium (MA)- and formamidinium (FA)-based perovskites. We develop an in situ photoluminescence (PL) platform to selectively monitor the crystallization process at the film top surface and buried interface during spin coating. We observe distinct PL responses from the two interfacial regions, revealing vertically heterogeneous crystallization dynamics within these perovskite films. Precursor species transform into crystalline phases earlier at the buried interface, suggesting a higher crystallization propensity of buried-interface species. Once formed, however, the perovskite nuclei near the top surface exhibit markedly faster growth than those at the buried interface, consistent with mobility-assisted attachment and coarsening promoted by faster solvent evaporation in the upper region of the wet film. Moreover, in pristine MAPbI₃ wet films, similar PL intensities are detected from the two interfacial regions after anti-solvent dripping, demonstrating that anti-solvent-induced nucleation occurs throughout the entire film thickness. By contrast, buried-interface nucleation is strongly suppressed in wet films prepared from optimized perovskite precursor solutions, highlighting the importance of controlling the stability of buried-interface species to achieve unidirectional crystal growth and prevent the formation of grain boundaries between vertically stacked crystals.
 
 
 ### Results
@@ -54,7 +54,7 @@ Stage II (26–40 s) upward nucleation stage. During this stage, PL emission eme
 --- Page 6 ---
 
 
-After 50 s, the PL signals become relatively stable at both interfaces. The bottom-detected PL peak position stabilizes at approximately 650 nm, suggesting limited further growth of the bottom-side nuclei. This suppressed growth may be attributed to restricted ion mobility near the substrate interface, which limits the attachment of precursor ions or monomers to the existing nuclei. Notably, a shoulder at approximately 750 nm emerges together with a slight increase in PL peak intensity, contributing to the increasing integrated bottom-detected PL counts (Fig. 1d, S₇). This shoulder indicates the formation of larger emissive nuclei near the bottom side of the film during this stage. These larger nuclei likely originate from colloidal octahedral polyplumbate soft frameworks, which have the same crystal structure as the perovskite phase and therefore may facilitate the incorporation of A-site cations to form perovskite nuclei.25 Consistent with this interpretation, the lower-concentration 1.0 M precursor, which is expected to contain fewer such soft frameworks, exhibits a negligible red-wavelength shoulder in the wet film during spin coating (Fig. S8). This soft framework nucleation is further confirmed by the interfacespecific in situ PL measurement of a MAPbI₃ wet film prepared with excess iodide ions, using a 2:1 MAI: PbI₂ ratio. Because this precursor is expected to contain more abundant soft frameworks, this lowenergy emission shoulder even becomes the dominant PL peak during the second nucleation process (Fig. S9). For the top-detected PL signal, a gradual red shift appears at approximately 160 s, indicating growth of nuclei in the upper region (Fig. 1e). This growth may be driven by the continuous evaporation of DMF molecules, which shortens the distance between precursor ions and existing nuclei and thereby promotes ion attachment. The increase in integrated top-detected PL counts over the 500–900 nm range also indicates that nucleation continues slowly during this growth stage, which is generally considered detrimental to uniform film formation (Fig. S10). In Stage I, we identify a sol–gel-to-intermediate phase transition, indicating that the pre-nucleation wet film comprises both phases. Stage II nucleation could therefore proceed either directly from the sol–gel phase or through conversion of the intermediate phase into perovskite nuclei. Two characteristic features of Stage II nucleation support the latter pathway. First, conversion of an amorphous sol–gel phase typically requires substantial mass transport and component segregation. Given the faster solvent evaporation and higher ion mobility at the film surface, nucleation from the sol–gel phase would be expected to initiate at the top interface. Second, direct amorphous-to-crystalline transformation would likely generate nuclei with comparable sizes, because such nucleation events are governed largely by stochastic collisions among precursor species. Therefore, the observed depth-dependent nucleus-size gradient is more consistent with a crystalline-to-crystalline transition from the intermediate phase to perovskite nuclei. The stronger PL intensity observed from the bottom side further suggests a higher concentration of the intermediate phase in this region. Combined with the quasi in situ XRD results showing a continuous sol–gel-to-intermediate transition, these observations indicate that intermediatephase formation initiates near the bottom interface, yielding a vertically heterogeneous pre-nucleation wet-film structure with a sol–gel-rich upper region and an intermediate-phase-rich lower region. Based on these results, a crystallization model for MAPbI₃ (DMF) is summarized, as illustrated in Fig. 1f. Before nucleation, the wet film consists of a sol–gel-phase-rich upper region and an intermediate-phasePage 6/26
+After 50 s, the PL signals become relatively stable at both interfaces. The bottom-detected PL peak position stabilizes at approximately 650 nm, suggesting limited further growth of the bottom-side nuclei. This suppressed growth may be attributed to restricted ion mobility near the substrate interface, which limits the attachment of precursor ions or monomers to the existing nuclei. Notably, a shoulder at approximately 750 nm emerges together with a slight increase in PL peak intensity, contributing to the increasing integrated bottom-detected PL counts (Fig. 1d, S7). This shoulder indicates the formation of larger emissive nuclei near the bottom side of the film during this stage. These larger nuclei likely originate from colloidal octahedral polyplumbate soft frameworks, which have the same crystal structure as the perovskite phase and therefore may facilitate the incorporation of A-site cations to form perovskite nuclei.25 Consistent with this interpretation, the lower-concentration 1.0 M precursor, which is expected to contain fewer such soft frameworks, exhibits a negligible red-wavelength shoulder in the wet film during spin coating (Fig. S8). This soft framework nucleation is further confirmed by the interfacespecific in situ PL measurement of a MAPbI₃ wet film prepared with excess iodide ions, using a 2:1 MAI: PbI₂ ratio. Because this precursor is expected to contain more abundant soft frameworks, this lowenergy emission shoulder even becomes the dominant PL peak during the second nucleation process (Fig. S9). For the top-detected PL signal, a gradual red shift appears at approximately 160 s, indicating growth of nuclei in the upper region (Fig. 1e). This growth may be driven by the continuous evaporation of DMF molecules, which shortens the distance between precursor ions and existing nuclei and thereby promotes ion attachment. The increase in integrated top-detected PL counts over the 500–900 nm range also indicates that nucleation continues slowly during this growth stage, which is generally considered detrimental to uniform film formation (Fig. S10). In Stage I, we identify a sol–gel-to-intermediate phase transition, indicating that the pre-nucleation wet film comprises both phases. Stage II nucleation could therefore proceed either directly from the sol–gel phase or through conversion of the intermediate phase into perovskite nuclei. Two characteristic features of Stage II nucleation support the latter pathway. First, conversion of an amorphous sol–gel phase typically requires substantial mass transport and component segregation. Given the faster solvent evaporation and higher ion mobility at the film surface, nucleation from the sol–gel phase would be expected to initiate at the top interface. Second, direct amorphous-to-crystalline transformation would likely generate nuclei with comparable sizes, because such nucleation events are governed largely by stochastic collisions among precursor species. Therefore, the observed depth-dependent nucleus-size gradient is more consistent with a crystalline-to-crystalline transition from the intermediate phase to perovskite nuclei. The stronger PL intensity observed from the bottom side further suggests a higher concentration of the intermediate phase in this region. Combined with the quasi in situ XRD results showing a continuous sol–gel-to-intermediate transition, these observations indicate that intermediatephase formation initiates near the bottom interface, yielding a vertically heterogeneous pre-nucleation wet-film structure with a sol–gel-rich upper region and an intermediate-phase-rich lower region. Based on these results, a crystallization model for MAPbI₃ (DMF) is summarized, as illustrated in Fig. 1f. Before nucleation, the wet film consists of a sol–gel-phase-rich upper region and an intermediate-phasePage 6/26
 
 
 --- Page 7 ---
@@ -120,7 +120,7 @@ The time-resolved interface-specific PL spectra of the three systems are further
 --- Page 14 ---
 
 
-stable bottom-detected PL in the pristine film is attributed to the formation of the non-emissive δ-phase, as discussed above. Consequently, its buried-interface region remains unfavorable for crystallization, leading to poor vertical morphology. The corresponding vertical crystallization processes in these three systems are illustrated in Fig. 6d. Similar crystallization behavior was also observed in other FA-based systems, including triple-cation FA0.85MA0.1Cs0.05PbI3 and low-Br mixed-halide FA0.75MA0.15Cs0.1PbBr0.51I2.49, both of which exhibit a much lower nucleation density in the buriedinterface region after CB dripping, as shown in Fig. S23, S₂₄.
+stable bottom-detected PL in the pristine film is attributed to the formation of the non-emissive δ-phase, as discussed above. Consequently, its buried-interface region remains unfavorable for crystallization, leading to poor vertical morphology. The corresponding vertical crystallization processes in these three systems are illustrated in Fig. 6d. Similar crystallization behavior was also observed in other FA-based systems, including triple-cation FA0.85MA0.1Cs0.05PbI3 and low-Br mixed-halide FA0.75MA0.15Cs0.1PbBr0.51I2.49, both of which exhibit a much lower nucleation density in the buriedinterface region after CB dripping, as shown in Fig. S23, S24.
 
 
 ### Discussion
@@ -153,7 +153,7 @@ All precursor solutions were prepared and stirred for 24 h to ensure complete di
 ## Film Fabrication
 
 
-Before deposition, the substrates, including glass and ITO (Advanced Electron Technology Co., Ltd.), were sequentially cleaned via ultrasound in a bath of detergent, deionized water, and ethyl alcohol, and finally dried by N₂ gas. The cleaned substrates were then treated in an ultraviolet-ozone chamber for 20 min. Unless otherwise specified, all the perovskite precursors were spin-coated at 3000 rpm. For antisolvent-assisted deposition, CB was dripped as an anti-solvent after 8 seconds of spin coating for MAPbI₃ wet films and after 20 seconds for FA-dominated perovskite films. When annealed films were required, the as-deposited MA-based perovskite films were annealed sequentially at 60°C for 5 min and 100°C for 25 min, whereas the FA-based films were annealed at 150°C for 20 min. Interface-specific In situ PL The configuration of the depth-resolved in situ PL measurement system is described in Supplementary Note 1. The PL spectra were collected using a QE Pro spectrometer (Ocean Optics), and the excitation sources are 405 nm and 450 nm focusable dot laser modules (Laserland) coupled to a collimating lens. All optical fibers were purchased from WYOPTICS.
+Before deposition, the substrates, including glass and ITO (Advanced Electron Technology Co., Ltd.), were sequentially cleaned via ultrasound in a bath of detergent, deionized water, and ethyl alcohol, and finally dried by N2 gas. The cleaned substrates were then treated in an ultraviolet-ozone chamber for 20 min. Unless otherwise specified, all the perovskite precursors were spin-coated at 3000 rpm. For antisolvent-assisted deposition, CB was dripped as an anti-solvent after 8 seconds of spin coating for MAPbI₃ wet films and after 20 seconds for FA-dominated perovskite films. When annealed films were required, the as-deposited MA-based perovskite films were annealed sequentially at 60°C for 5 min and 100°C for 25 min, whereas the FA-based films were annealed at 150°C for 20 min. Interface-specific In situ PL The configuration of the depth-resolved in situ PL measurement system is described in Supplementary Note 1. The PL spectra were collected using a QE Pro spectrometer (Ocean Optics), and the excitation sources are 405 nm and 450 nm focusable dot laser modules (Laserland) coupled to a collimating lens. All optical fibers were purchased from WYOPTICS.
 
 
 ## SEM
@@ -165,7 +165,7 @@ The SEM measurements were conducted using an Apreo 2 SEM (Thermo Fisher Scientif
 --- Page 16 ---
 
 
-Quasi in situ XRD The XRD patterns were recorded using a D₂ Phaser diffractometer (Bruker Corporation) equipped with a Cu Kα (𝜆 = 0.154 nm) radiation source. Samples were prepared on glass substrates using the same deposition procedures described above. As the instrument was also positioned adjacent to the N₂ glovebox, allowing immediate transfer of perovskite films with different spin-coating times to capture structural evolution, we attribute the measurement to be quasi in situ.
+Quasi in situ XRD The XRD patterns were recorded using a D2 Phaser diffractometer (Bruker Corporation) equipped with a Cu Kα (𝜆 = 0.154 nm) radiation source. Samples were prepared on glass substrates using the same deposition procedures described above. As the instrument was also positioned adjacent to the N2 glovebox, allowing immediate transfer of perovskite films with different spin-coating times to capture structural evolution, we attribute the measurement to be quasi in situ.
 
 
 ### Declarations
@@ -228,25 +228,61 @@ We acknowledge the financial support from the Guangdong Provincial Natural Scien
 *Synthesis (2026). https://doi.org/10.1038/s44160-026-01100-w*
 
 
-5          Sakhatskyi, K. et al. Stable perovskite single-crystal X-ray imaging detectors with single-photon sensitivity. Nature Photonics 17, 510–517 (2023). https://doi.org/10.1038/s41566-023-01207-y 6          Ma, Y. et al. Crystallization-activated moisture barrier for high-tolerance manufacturing of perovskite solar cells. Science Advances 11, eady5703 (2025). https://doi.org/doi:10.1126/sciadv.ady5703 7          Park, N.-G. & Zhu, K. Scalable fabrication and coating methods for perovskite solar cells and solar modules. Nature Reviews Materials 5, 333–350 (2020). https://doi.org/10.1038/s41578-019-0176-2 8          Rong, Y. et al. Challenges for commercializing perovskite solar cells. Science 361, eaat8235 (2018). https://doi.org/doi:10.1126/science.aat8235 9          Lee, J.-W., Lee, D.-K., Jeong, D.-N. & Park, N.-G. Control of Crystal Growth toward Scalable Fabrication of Perovskite Solar Cells. Advanced Functional Materials 29, 1807047 (2019). https://doi.org/https://doi.org/10.1002/adfm.201807047 10        Wang, Y. et al. In situ optical techniques for perovskite crystallization. Joule (2026). https://doi.org/10.1016/j.joule.2026.102546 11         Wang, Z. et al. Comprehensive crystallization retardation of inorganic perovskites for high performance inverted solar cells. Energy & Environmental Science 18, 4130–4141 (2025). https://doi.org/10.1039/d5ee00149h 12        Zhu, L. et al. Unveiling the additive-assisted oriented growth of perovskite crystallite for high performance light-emitting diodes. Nature Communications 12, 5081 (2021). https://doi.org/10.1038/s41467-021-25407-8 13        Zheng, X. et al. Solvent engineering for scalable fabrication of perovskite/silicon tandem solar cells in air. Nature Communications 15, 4907 (2024). https://doi.org/10.1038/s41467-024-49351-5 14        Wang, Y. et al. Beyond rapid nucleation: unveiling the role of solvent–precursor interactions in antisolvent-free perovskite fabrication. Energy & Environmental Science 19, 2988–2998 (2026). https://doi.org/10.1039/d6ee00170j Page 17/26
+5          Sakhatskyi, K. et al. Stable perovskite single-crystal X-ray imaging detectors with single-photon sensitivity. Nature Photonics 17, 510–517 (2023). https://doi.org/10.1038/s41566-023-01207-y
+
+6          Ma, Y. et al. Crystallization-activated moisture barrier for high-tolerance manufacturing of perovskite solar cells. Science Advances 11, eady5703 (2025). https://doi.org/doi:10.1126/sciadv.ady5703
+
+7          Park, N.-G. & Zhu, K. Scalable fabrication and coating methods for perovskite solar cells and solar modules. Nature Reviews Materials 5, 333–350 (2020). https://doi.org/10.1038/s41578-019-0176-2
+
+8          Rong, Y. et al. Challenges for commercializing perovskite solar cells. Science 361, eaat8235 (2018). https://doi.org/doi:10.1126/science.aat8235
+
+9          Lee, J.-W., Lee, D.-K., Jeong, D.-N. & Park, N.-G. Control of Crystal Growth toward Scalable Fabrication of Perovskite Solar Cells. Advanced Functional Materials 29, 1807047 (2019). https://doi.org/https://doi.org/10.1002/adfm.201807047
+
+10        Wang, Y. et al. In situ optical techniques for perovskite crystallization. Joule (2026). https://doi.org/10.1016/j.joule.2026.102546
+
+11         Wang, Z. et al. Comprehensive crystallization retardation of inorganic perovskites for high performance inverted solar cells. Energy & Environmental Science 18, 4130–4141 (2025). https://doi.org/10.1039/d5ee00149h
+
+12        Zhu, L. et al. Unveiling the additive-assisted oriented growth of perovskite crystallite for high performance light-emitting diodes. Nature Communications 12, 5081 (2021). https://doi.org/10.1038/s41467-021-25407-8
+
+13        Zheng, X. et al. Solvent engineering for scalable fabrication of perovskite/silicon tandem solar cells in air. Nature Communications 15, 4907 (2024). https://doi.org/10.1038/s41467-024-49351-5
+
+14        Wang, Y. et al. Beyond rapid nucleation: unveiling the role of solvent–precursor interactions in antisolvent-free perovskite fabrication. Energy & Environmental Science 19, 2988–2998 (2026). https://doi.org/10.1039/d6ee00170j Page 17/26
 
 
 --- Page 18 ---
 
 
-15        Bi, L. et al. Temperature-controlled vacuum quenching for perovskite solar modules towards scalable production. Nature Photonics 19, 968–976 (2025). https://doi.org/10.1038/s41566-025-01703-3 16        Zhuang, J. et al. Rapid Surface Reconstruction in Air-Processed Perovskite Solar Cells by Blade Coating. Advanced Materials 36, 2309869 (2024). https://doi.org/https://doi.org/10.1002/adma.202309869 17        Jeon, N. J. et al. Solvent engineering for high-performance inorganic–organic hybrid perovskite solar cells. Nature Materials 13, 897–903 (2014). https://doi.org/10.1038/nmat4014 18        Xiong, W. et al. Controllable p- and n-type behaviours in emissive perovskite semiconductors.
+15        Bi, L. et al. Temperature-controlled vacuum quenching for perovskite solar modules towards scalable production. Nature Photonics 19, 968–976 (2025). https://doi.org/10.1038/s41566-025-01703-3
+
+16        Zhuang, J. et al. Rapid Surface Reconstruction in Air-Processed Perovskite Solar Cells by Blade Coating. Advanced Materials 36, 2309869 (2024). https://doi.org/https://doi.org/10.1002/adma.202309869
+
+17        Jeon, N. J. et al. Solvent engineering for high-performance inorganic–organic hybrid perovskite solar cells. Nature Materials 13, 897–903 (2014). https://doi.org/10.1038/nmat4014
+
+18        Xiong, W. et al. Controllable p- and n-type behaviours in emissive perovskite semiconductors.
 
 
 *Nature 633, 344–350 (2024). https://doi.org/10.1038/s41586-024-07792-4*
 
 
-19        Ma, T. et al. Stable tin–lead perovskite inks for efficient all-perovskite tandems. Nature Energy (2026). https://doi.org/10.1038/s41560-026-02077-8 20        Munir, R. et al. Hybrid Perovskite Thin-Film Photovoltaics: In Situ Diagnostics and Importance of the Precursor Solvate Phases. Advanced Materials 29, 1604113 (2017). https://doi.org/https://doi.org/10.1002/adma.201604113 21        Wang, K. et al. Kinetic Stabilization of the Sol–Gel State in Perovskites Enables Facile Processing of High-Efficiency Solar Cells. Advanced Materials 31, 1808357 (2019). https://doi.org/https://doi.org/10.1002/adma.201808357 22        Wang, Y. et al. Intermediate State Formation Extends the Ambient Temperature Processing Window of Solution-Processed Perovskite Solar Cells. ACS Energy Letters 10, 647–657 (2025). https://doi.org/10.1021/acsenergylett.4c03119 23        Rahimnejad, S., Kovalenko, A., Forés, S. M., Aranda, C. & Guerrero, A. Coordination Chemistry Dictates the Structural Defects in Lead Halide Perovskites. ChemPhysChem 17, 2795–2798 (2016). https://doi.org/https://doi.org/10.1002/cphc.201600575 24        Shi, Z. et al. Self-regulated facet stability during solution growth of perovskite crystals. Nature
+19        Ma, T. et al. Stable tin–lead perovskite inks for efficient all-perovskite tandems. Nature Energy (2026). https://doi.org/10.1038/s41560-026-02077-8
+
+20        Munir, R. et al. Hybrid Perovskite Thin-Film Photovoltaics: In Situ Diagnostics and Importance of the Precursor Solvate Phases. Advanced Materials 29, 1604113 (2017). https://doi.org/https://doi.org/10.1002/adma.201604113
+
+21        Wang, K. et al. Kinetic Stabilization of the Sol–Gel State in Perovskites Enables Facile Processing of High-Efficiency Solar Cells. Advanced Materials 31, 1808357 (2019). https://doi.org/https://doi.org/10.1002/adma.201808357
+
+22        Wang, Y. et al. Intermediate State Formation Extends the Ambient Temperature Processing Window of Solution-Processed Perovskite Solar Cells. ACS Energy Letters 10, 647–657 (2025). https://doi.org/10.1021/acsenergylett.4c03119
+
+23        Rahimnejad, S., Kovalenko, A., Forés, S. M., Aranda, C. & Guerrero, A. Coordination Chemistry Dictates the Structural Defects in Lead Halide Perovskites. ChemPhysChem 17, 2795–2798 (2016). https://doi.org/https://doi.org/10.1002/cphc.201600575
+
+24        Shi, Z. et al. Self-regulated facet stability during solution growth of perovskite crystals. Nature
 
 
 *Synthesis 4, 1088–1094 (2025). https://doi.org/10.1038/s44160-025-00786-8*
 
 
-25        Yan, K. et al. Hybrid Halide Perovskite Solar Cell Precursors: Colloidal Chemistry and Coordination Engineering behind Device Processing for High Efficiency. Journal of the American Chemical Society 137, 4460–4468 (2015). https://doi.org/10.1021/jacs.5b00321 26        Kerner, R. A. et al. Why are Lead Iodide-Based Perovskite Precursor Inks Yellow? Advanced Energy
+25        Yan, K. et al. Hybrid Halide Perovskite Solar Cell Precursors: Colloidal Chemistry and Coordination Engineering behind Device Processing for High Efficiency. Journal of the American Chemical Society 137, 4460–4468 (2015). https://doi.org/10.1021/jacs.5b00321
+
+26        Kerner, R. A. et al. Why are Lead Iodide-Based Perovskite Precursor Inks Yellow? Advanced Energy
 
 
 *Materials 16, e02813 (2026). https://doi.org/https://doi.org/10.1002/aenm.202502813*
@@ -258,13 +294,31 @@ We acknowledge the financial support from the Guangdong Provincial Natural Scien
 --- Page 19 ---
 
 
-https://doi.org/10.1038/s41377-024-01521-2 28        Wang, J. et al. Bottom-Up Templated and Oriented Crystallization for Inverted Triple-Cation Perovskite Solar Cells with Stabilized Nickel-Oxide Interface. Small 18, 2203886 (2022). https://doi.org/https://doi.org/10.1002/smll.202203886 29        Zhang, H. et al. Bottom-Up Quasi-Epitaxial Growth of Hybrid Perovskite from Solution Process— Achieving High-Efficiency Solar Cells via Template-Guided Crystallization. Advanced Materials 33, 2100009 (2021). https://doi.org/https://doi.org/10.1002/adma.202100009 30        Zheng, D., Raffin, F., Volovitch, P. & Pauporté, T. Control of perovskite film crystallization and growth direction to target homogeneous monolithic structures. Nature Communications 13, 6655 (2022). https://doi.org/10.1038/s41467-022-34332-3 31        Chen, S. et al. Crystallization in one-step solution deposition of perovskite films: Upward or downward? Science Advances 7, eabb2412 (2021). https://doi.org/doi:10.1126/sciadv.abb2412 32        Zou, Y. et al. Double-sided annealing to reverse the crystallization direction for efficient and stable flexible FACs-perovskite solar modules. Science Advances 11, eadz0962 (2025). https://doi.org/doi:10.1126/sciadv.adz0962 33        Liu, Q. et al. Heterogeneous Nucleation-Induced Upward Crystallization for Perovskite Solar Cells.
+28        Wang, J. et al. Bottom-Up Templated and Oriented Crystallization for Inverted Triple-Cation Perovskite Solar Cells with Stabilized Nickel-Oxide Interface. Small 18, 2203886 (2022). https://doi.org/https://doi.org/10.1002/smll.202203886
+
+29        Zhang, H. et al. Bottom-Up Quasi-Epitaxial Growth of Hybrid Perovskite from Solution Process— Achieving High-Efficiency Solar Cells via Template-Guided Crystallization. Advanced Materials 33, 2100009 (2021). https://doi.org/https://doi.org/10.1002/adma.202100009
+
+30        Zheng, D., Raffin, F., Volovitch, P. & Pauporté, T. Control of perovskite film crystallization and growth direction to target homogeneous monolithic structures. Nature Communications 13, 6655 (2022). https://doi.org/10.1038/s41467-022-34332-3
+
+31        Chen, S. et al. Crystallization in one-step solution deposition of perovskite films: Upward or downward? Science Advances 7, eabb2412 (2021). https://doi.org/doi:10.1126/sciadv.abb2412
+
+32        Zou, Y. et al. Double-sided annealing to reverse the crystallization direction for efficient and stable flexible FACs-perovskite solar modules. Science Advances 11, eadz0962 (2025). https://doi.org/doi:10.1126/sciadv.adz0962
+
+33        Liu, Q. et al. Heterogeneous Nucleation-Induced Upward Crystallization for Perovskite Solar Cells.
 
 
 *ACS Energy Letters 10, 2972–2977 (2025). https://doi.org/10.1021/acsenergylett.5c00758*
 
 
-34        Petrov, A. A. et al. Crystal Structure of DMF-Intermediate Phases Uncovers the Link Between CH3NH3PbI3 Morphology and Precursor Stoichiometry. The Journal of Physical Chemistry C 121, 20739– 20743 (2017). https://doi.org/10.1021/acs.jpcc.7b08468 35        Scheblykin, I. G. Small Number of Defects per Nanostructure Leads to “Digital” Quenching of Photoluminescence: The Case of Metal Halide Perovskites. Advanced Energy Materials 10, 2001724 (2020). https://doi.org/https://doi.org/10.1002/aenm.202001724 36        Voorhees, P. W. The theory of Ostwald ripening. Journal of Statistical Physics 38, 231–252 (1985). https://doi.org/10.1007/BF01017860 37        Cao, X. et al. Fabrication of Perovskite Films with Large Columnar Grains via Solvent-Mediated Ostwald Ripening for Efficient Inverted Perovskite Solar Cells. ACS Applied Energy Materials 1, 868–875 (2018). https://doi.org/10.1021/acsaem.7b00300 38        Yan, Y. et al. Implementing an intermittent spin-coating strategy to enable bottom-up crystallization in layered halide perovskites. Nature Communications 12, 6603 (2021). https://doi.org/10.1038/s41467-021-26753-3 Page 19/26
+34        Petrov, A. A. et al. Crystal Structure of DMF-Intermediate Phases Uncovers the Link Between CH3NH3PbI3 Morphology and Precursor Stoichiometry. The Journal of Physical Chemistry C 121, 20739– 20743 (2017). https://doi.org/10.1021/acs.jpcc.7b08468
+
+35        Scheblykin, I. G. Small Number of Defects per Nanostructure Leads to “Digital” Quenching of Photoluminescence: The Case of Metal Halide Perovskites. Advanced Energy Materials 10, 2001724 (2020). https://doi.org/https://doi.org/10.1002/aenm.202001724
+
+36        Voorhees, P. W. The theory of Ostwald ripening. Journal of Statistical Physics 38, 231–252 (1985). https://doi.org/10.1007/BF01017860
+
+37        Cao, X. et al. Fabrication of Perovskite Films with Large Columnar Grains via Solvent-Mediated Ostwald Ripening for Efficient Inverted Perovskite Solar Cells. ACS Applied Energy Materials 1, 868–875 (2018). https://doi.org/10.1021/acsaem.7b00300
+
+38        Yan, Y. et al. Implementing an intermittent spin-coating strategy to enable bottom-up crystallization in layered halide perovskites. Nature Communications 12, 6603 (2021). https://doi.org/10.1038/s41467-021-26753-3 Page 19/26
 
 
 --- Page 20 ---
@@ -276,7 +330,17 @@ https://doi.org/10.1038/s41377-024-01521-2 28        Wang, J. et al. Bottom
 *Chemical Society 137, 8696–8699 (2015). https://doi.org/10.1021/jacs.5b04930*
 
 
-40        Pratap, S. et al. Out-of-equilibrium processes in crystallization of organic-inorganic perovskites during spin coating. Nature Communications 12, 5624 (2021). https://doi.org/10.1038/s41467-02125898-5 41        Wang, Y. et al. Unlocking the Ambient Temperature Effect on FA-Based Perovskites Crystallization by In Situ Optical Method. Advanced Materials 36, 2307635 (2024). https://doi.org/https://doi.org/10.1002/adma.202307635 42        Bi, L. et al. Deciphering the Roles of MA-Based Volatile Additives for α‑FAPbI₃ to Enable Efficient Inverted Perovskite Solar Cells. Journal of the American Chemical Society 145, 5920–5929 (2023). https://doi.org/10.1021/jacs.2c13566 43        Kim, M. et al. Methylammonium Chloride Induces Intermediate Phase Stabilization for Efficient Perovskite Solar Cells. Joule 3, 2179–2192 (2019). https://doi.org/https://doi.org/10.1016/j.joule.2019.06.014 44       De Yoreo, J. J. et al. Crystallization by particle attachment in synthetic, biogenic, and geologic environments. Science 349, aaa6760 (2015). https://doi.org/doi:10.1126/science.aaa6760 45        Qin, M. et al. Manipulating the Mixed-Perovskite Crystallization Pathway Unveiled by In Situ GIWAXS. Advanced Materials 31, 1901284 (2019). https://doi.org/https://doi.org/10.1002/adma.201901284
+40        Pratap, S. et al. Out-of-equilibrium processes in crystallization of organic-inorganic perovskites during spin coating. Nature Communications 12, 5624 (2021). https://doi.org/10.1038/s41467-02125898-5
+
+41        Wang, Y. et al. Unlocking the Ambient Temperature Effect on FA-Based Perovskites Crystallization by In Situ Optical Method. Advanced Materials 36, 2307635 (2024). https://doi.org/https://doi.org/10.1002/adma.202307635
+
+42        Bi, L. et al. Deciphering the Roles of MA-Based Volatile Additives for α‑FAPbI₃ to Enable Efficient Inverted Perovskite Solar Cells. Journal of the American Chemical Society 145, 5920–5929 (2023). https://doi.org/10.1021/jacs.2c13566
+
+43        Kim, M. et al. Methylammonium Chloride Induces Intermediate Phase Stabilization for Efficient Perovskite Solar Cells. Joule 3, 2179–2192 (2019). https://doi.org/https://doi.org/10.1016/j.joule.2019.06.014
+
+44       De Yoreo, J. J. et al. Crystallization by particle attachment in synthetic, biogenic, and geologic environments. Science 349, aaa6760 (2015). https://doi.org/doi:10.1126/science.aaa6760
+
+45        Qin, M. et al. Manipulating the Mixed-Perovskite Crystallization Pathway Unveiled by In Situ GIWAXS. Advanced Materials 31, 1901284 (2019). https://doi.org/https://doi.org/10.1002/adma.201901284
 
 
 ### Figures
@@ -297,7 +361,7 @@ Figure 1 Fig. 1: Interface-specific in situ PL analysis of MAPbI₃ (DMF) during
 dashed line in the inset marks the emission peak of bulk MAPbI₃ crystals. f Schematic illustration of the depth-dependent species evolution. Page 21/26
 
 
-![Figure 1: Interface-specific in situ PL analysis of MAPbI₃ (DMF) during spin coating. 2D colormap of a top-](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_1.jpg)
+![Figure 1: Interface-specific in situ PL analysis of MAPbI3 (DMF) during spin coating. 2D colormap of a top-](Figure_1.jpg)
 
 
 --- Page 22 ---
@@ -306,7 +370,7 @@ dashed line in the inset marks the emission peak of bulk MAPbI₃ crystals. f Sc
 Figure 2 Fig. 2: Interface-specific in situ PL analysis of MAPbI₃ (DMF) after anti-solvent dripping. a PL peak intensity extracted from the top- and bottom-detected in situ signal. Time-resolved b top- and c bottomdetected PL spectra. The vertical black dashed line in the inset marks the emission peak of bulk MAPbI₃ crystals. d SEM of the annealed film. e Schematic illustration of the nucleation behavior. The legends used in the schematic are defined in Fig. 1f. Page 22/26
 
 
-![Figure 2: Interface-specific in situ PL analysis of MAPbI₃ (DMF) after anti-solvent dripping. a PL peak](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_2.jpg)
+![Figure 2: Interface-specific in situ PL analysis of MAPbI3 (DMF) after anti-solvent dripping. a PL peak](Figure_2.jpg)
 
 
 --- Page 23 ---
@@ -315,7 +379,7 @@ Figure 2 Fig. 2: Interface-specific in situ PL analysis of MAPbI₃ (DMF) after 
 Figure 3 Fig. 3: Interface-specific in situ PL analysis of MAPbI₃ (DMSO) after anti-solvent dripping. a PL peak intensity extracted from the top- and bottom-detected in situ signal. Time-resolved b top- and c bottomdetected PL spectra. The vertical black dashed line in the inset marks the emission peak of bulk MAPbI₃ crystals. d SEM of the annealed film. e Schematic illustration of the nucleation behavior. The legends used in the schematic are defined in Fig. 1f. Page 23/26
 
 
-![Figure 3: Interface-specific in situ PL analysis of MAPbI₃ (DMSO) after anti-solvent dripping. a PL peak](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_3.jpg)
+![Figure 3: Interface-specific in situ PL analysis of MAPbI3 (DMSO) after anti-solvent dripping. a PL peak](Figure_3.jpg)
 
 
 --- Page 24 ---
@@ -324,7 +388,7 @@ Figure 3 Fig. 3: Interface-specific in situ PL analysis of MAPbI₃ (DMSO) after
 Figure 4 Fig. 4: Interface-specific in situ PL analysis of FA0.9Cs0.1PbI3 during spin coating. 2D colormap of a topand b bottom-detected in situ PL signal. Integrated PL intensity of c top- and d bottom-detected in situ signal. e Schematic illustration of the depth-dependent species evolution. The legends used in the schematic are defined in Fig. 1f. Page 24/26
 
 
-![Figure 4: Interface-specific in situ PL analysis of FA0.9Cs0.1PbI3 during spin coating. 2D colormap of a top-](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_4.jpg)
+![Figure 4: Interface-specific in situ PL analysis of FA0.9Cs0.1PbI3 during spin coating. 2D colormap of a top-](Figure_4.jpg)
 
 
 --- Page 25 ---
@@ -333,7 +397,7 @@ Figure 4 Fig. 4: Interface-specific in situ PL analysis of FA0.9Cs0.1PbI3 during
 Figure 5 Fig. 5: Interface-specific in situ PL analysis of FA0.9Cs0.1PbI3 films after anti-solvent dripping. a–c PL peak intensity extracted from the top- and bottom-detected in situ signals. d–f Time-resolved topdetected PL spectra. g–i Time-resolved bottom-detected PL spectra. Page 25/26
 
 
-![Figure 5: Interface-specific in situ PL analysis of FA0.9Cs0.1PbI3 films after anti-solvent dripping. a–c PL](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_5.jpg)
+![Figure 5: Interface-specific in situ PL analysis of FA0.9Cs0.1PbI3 films after anti-solvent dripping. a–c PL](Figure_5.jpg)
 
 
 --- Page 26 ---
@@ -348,7 +412,7 @@ Figure 6 Fig. 6: Morphology and crystallization behavior of anti-solvent-process
 This is a list of supplementary files associated with this preprint. Click to download. SupplementaryInformation.docx Page 26/26
 
 
-![Figure 6: Morphology and crystallization behavior of anti-solvent-processed FA0.9Cs0.1PbI3 films. SEM of](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_6.jpg)
+![Figure 6: Morphology and crystallization behavior of anti-solvent-processed FA0.9Cs0.1PbI3 films. SEM of](Figure_6.jpg)
 
 
 --- Page 27 ---
@@ -372,31 +436,31 @@ Supplementary Note 1 This note describes the interface-specific in-situ PL measu
 *In situ PL is a powerful and widely used technique for characterizing perovskite*
 
 
-crystallization. In this study, we developed an in situ PL measurement platform to investigate perovskite crystallization near the top surface and buried interface of films during spin coating. The configuration of the platform is illustrated in Figure S. Two Y-shaped optical fibers were employed to independently excite and collect PL signals from the top and bottom sides of the film. By selecting excitation lasers with different wavelengths, the penetration depth of the excitation light, and thus the effective probing region, can be adjusted, enabling depth-resolved PL detection with tunable probing depths. After enabling PL excitation and collection from both sides of the film, a critical consideration is the effective detection depth. In situ absorption measurement was first conducted to compare the penetration depths of different laser probes (Figure S). Taking 405 and 450 nm excitation as examples, the MAPbI₃ (DMF) perovskite wet film already exhibits strong absorption at 405 nm before nucleation, indicating that the incident light can be largely attenuated by precursor-derived species. As a result, only nucleation events occurring within a shallow near-surface region can be detected. In contrast, the 450 nm laser experiences negligible attenuation before nucleation, indicating that nuclei forming throughout the film can be excited and emit signals, thereby diminishing its spatial resolution. Therefore, 405 nm excitation can be used to selectively probe crystallization signals from the shallow region adjacent to the probe side, enabling interface-specific monitoring of nucleation near either the top surface or the buried interface. The penetration depth of the 405 nm excitation laser in the MAPbI₃ perovskite wet film, defined as the depth at which the light intensity decays to 1/e of its surface value, is further calculated to be approximately 100 nm. To evaluate the spatial sensitivity of the measurement, we compared PL responses obtained under top-detected and bottom-detected excitation using 405 and 450 nm 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
+crystallization. In this study, we developed an in situ PL measurement platform to investigate perovskite crystallization near the top surface and buried interface of films during spin coating. The configuration of the platform is illustrated in Figure S1. Two Y-shaped optical fibers were employed to independently excite and collect PL signals from the top and bottom sides of the film. By selecting excitation lasers with different wavelengths, the penetration depth of the excitation light, and thus the effective probing region, can be adjusted, enabling depth-resolved PL detection with tunable probing depths. After enabling PL excitation and collection from both sides of the film, a critical consideration is the effective detection depth. In situ absorption measurement was first conducted to compare the penetration depths of different laser probes (Figure S2). Taking 405 and 450 nm excitation as examples, the MAPbI₃ (DMF) perovskite wet film already exhibits strong absorption at 405 nm before nucleation, indicating that the incident light can be largely attenuated by precursor-derived species. As a result, only nucleation events occurring within a shallow near-surface region can be detected. In contrast, the 450 nm laser experiences negligible attenuation before nucleation, indicating that nuclei forming throughout the film can be excited and emit signals, thereby diminishing its spatial resolution. Therefore, 405 nm excitation can be used to selectively probe crystallization signals from the shallow region adjacent to the probe side, enabling interface-specific monitoring of nucleation near either the top surface or the buried interface. The penetration depth of the 405 nm excitation laser in the MAPbI₃ perovskite wet film, defined as the depth at which the light intensity decays to 1/e of its surface value, is further calculated to be approximately 100 nm. To evaluate the spatial sensitivity of the measurement, we compared PL responses obtained under top-detected and bottom-detected excitation using 405 and 450 nm 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
 
 
 --- Page 29 ---
 
 
-lasers (Figure S). Interface-specific in situ PL measurements using 405 nm excitation reveal pronounced differences between top- and bottom-detected crystallization dynamics, confirming vertical heterogeneity in solution-processed perovskite films. The different PL onset times of the top- and bottom-detected signals indicate distinct nucleation onset times within the respective probing regions, confirming that the two detection configurations probe different spatial regions and thereby verifying the interface-specific probing capability of this platform, with 405 nm excitation primarily probing crystallization within a shallow region adjacent to the illuminated side. By contrast, in situ PL signals detected from the top and bottom sides under 450 nm excitation are nearly identical and exhibit similar onset times, consistent with a bulkaveraged response rather than interface-specific detection. Moreover, the bulk-averaged PL response obtained under 450 nm excitation closely resembles the bottom-side PL signal measured under 405 nm excitation, indicating that bulk nucleation in this system is dominated by buried-interface crystallization. Together, these results demonstrate that, using 405 nm excitation, our in-situ PL platform enables interface-specific monitoring of perovskite crystallization dynamics near both the top surface and buried interface during spin coating 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71
+lasers (Figure S3). Interface-specific in situ PL measurements using 405 nm excitation reveal pronounced differences between top- and bottom-detected crystallization dynamics, confirming vertical heterogeneity in solution-processed perovskite films. The different PL onset times of the top- and bottom-detected signals indicate distinct nucleation onset times within the respective probing regions, confirming that the two detection configurations probe different spatial regions and thereby verifying the interface-specific probing capability of this platform, with 405 nm excitation primarily probing crystallization within a shallow region adjacent to the illuminated side. By contrast, in situ PL signals detected from the top and bottom sides under 450 nm excitation are nearly identical and exhibit similar onset times, consistent with a bulkaveraged response rather than interface-specific detection. Moreover, the bulk-averaged PL response obtained under 450 nm excitation closely resembles the bottom-side PL signal measured under 405 nm excitation, indicating that bulk nucleation in this system is dominated by buried-interface crystallization. Together, these results demonstrate that, using 405 nm excitation, our in-situ PL platform enables interface-specific monitoring of perovskite crystallization dynamics near both the top surface and buried interface during spin coating 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71
 
 
 --- Page 30 ---
 
 
-Figure S. Schematic illustration of the in situ PL measurement platform. It can be readily switched between interface-specific and bulk-averaged detection modes by changing the excitation wavelength. 72 73 74 75 76 77
+Figure S1. Schematic illustration of the in situ PL measurement platform. It can be readily switched between interface-specific and bulk-averaged detection modes by changing the excitation wavelength. 72 73 74 75 76 77
 
 
-![Figure S: . Schematic illustration of the in situ PL measurement platform. It can](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S1.jpg)
+![Figure S1: . Schematic illustration of the in situ PL measurement platform. It can](Figure_S1.jpg)
 
 
 --- Page 31 ---
 
 
-Figure S. (a) In situ absorption spectra and (b) time-resolved absorbance at 405 nm and 450 nm for MAPbI₃ (DMF) wet film during spin coating. (a) Time-resolved absorption spectra of the MAPbI₃ wet film, showing the evolution of absorbance across a range of wavelengths during spin coating. (b) Extracted absorbance values at 405 nm and 450 nm as a function of time, highlighting distinct absorption changes at each wavelength. The differential evolution at these two wavelengths demonstrates the sensitivity of 405 nm excitation for probing interface-specific nucleation processes. 78 79 80 81 82 83 84 85 86
+Figure S2. (a) In situ absorption spectra and (b) time-resolved absorbance at 405 nm and 450 nm for MAPbI₃ (DMF) wet film during spin coating. (a) Time-resolved absorption spectra of the MAPbI₃ wet film, showing the evolution of absorbance across a range of wavelengths during spin coating. (b) Extracted absorbance values at 405 nm and 450 nm as a function of time, highlighting distinct absorption changes at each wavelength. The differential evolution at these two wavelengths demonstrates the sensitivity of 405 nm excitation for probing interface-specific nucleation processes. 78 79 80 81 82 83 84 85 86
 
 
-![Figure S: . (a) In situ absorption spectra and (b) time-resolved absorbance at 405](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S2.jpg)
+![Figure S2: . (a) In situ absorption spectra and (b) time-resolved absorbance at 405](Figure_S2.jpg)
 
 
 --- Page 32 ---
@@ -408,196 +472,196 @@ Figure S. (a) In situ absorption spectra and (b) time-resolved absorbance at 405
 --- Page 33 ---
 
 
-Figure S. Comparison of in situ PL responses under 405 nm and 450 nm excitation during MAPbI₃ (DMF) spin coating. (a, b) Time-resolved PL spectra collected from the top and bottom sides of the MAPbI₃ wet film under 405 nm excitation. Temporal Evolution of (c) PL intensity and (d) PL peak position for top-detected and bottomdetected PL at 405 nm excitation. (e, f) Time-resolved PL spectra from top and bottom sides under 450 nm excitation. Temporal Evolution of (g) PL intensity and (h) PL peak position at 450 nm excitation. We can conclude that the 405 nm probe yields pronounced differences between the top and bottom signals, with early onset and strong PL emission from the bottom interface, indicating high interface sensitivity arising from its limited penetration depth. In contrast, the 450 nm probe produces comparable responses from both sides, reflecting bulk-averaged crystallization behavior. As the top PL signal is very weak, its crystallization dynamics are not readily resolved. 88 89 90 91 92 93 94 95 96 97 98 99 100
+Figure S3. Comparison of in situ PL responses under 405 nm and 450 nm excitation during MAPbI₃ (DMF) spin coating. (a, b) Time-resolved PL spectra collected from the top and bottom sides of the MAPbI₃ wet film under 405 nm excitation. Temporal Evolution of (c) PL intensity and (d) PL peak position for top-detected and bottomdetected PL at 405 nm excitation. (e, f) Time-resolved PL spectra from top and bottom sides under 450 nm excitation. Temporal Evolution of (g) PL intensity and (h) PL peak position at 450 nm excitation. We can conclude that the 405 nm probe yields pronounced differences between the top and bottom signals, with early onset and strong PL emission from the bottom interface, indicating high interface sensitivity arising from its limited penetration depth. In contrast, the 450 nm probe produces comparable responses from both sides, reflecting bulk-averaged crystallization behavior. As the top PL signal is very weak, its crystallization dynamics are not readily resolved. 88 89 90 91 92 93 94 95 96 97 98 99 100
 
 
-![Figure S: . Comparison of in situ PL responses under 405 nm and 450 nm excitation](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S3.jpg)
+![Figure S3: . Comparison of in situ PL responses under 405 nm and 450 nm excitation](Figure_S3.jpg)
 
 
 --- Page 34 ---
 
 
-Figure S. Quasi in situ XRD patterns of MAPbI₃ (DMF) as-cast films after (a) 5 s and (b) 250 s of spin coating. The intermediate phase, (MA)2(DMF)2Pb2I6, is marked by blue Δ, PbI₂ by blue *, and the perovskite phase by blue α. These results confirm that the intermediate phase forms earlier than the perovskite phase, appearing as soon as 5 s upon spin coating. 101 102 103 104 105 106 107 108
+Figure S4. Quasi in situ XRD patterns of MAPbI₃ (DMF) as-cast films after (a) 5 s and (b) 250 s of spin coating. The intermediate phase, (MA)2(DMF)2Pb2I6, is marked by blue Δ, PbI₂ by blue *, and the perovskite phase by blue α. These results confirm that the intermediate phase forms earlier than the perovskite phase, appearing as soon as 5 s upon spin coating. 101 102 103 104 105 106 107 108
 
 
-![Figure S: . Quasi in situ XRD patterns of MAPbI₃ (DMF) as-cast films after (a) 5 s](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S4.jpg)
+![Figure S4: . Quasi in situ XRD patterns of MAPbI3 (DMF) as-cast films after (a) 5 s](Figure_S4.jpg)
 
 
 --- Page 35 ---
 
 
-Figure S. Evolution of PL peak intensity and peak wavelength extracted from the (a) top- and (b) bottom-detected in situ spectra of MAPbI₃ (DMF) wet film during spin coating. 109 110 111 112
+Figure S5. Evolution of PL peak intensity and peak wavelength extracted from the (a) top- and (b) bottom-detected in situ spectra of MAPbI₃ (DMF) wet film during spin coating. 109 110 111 112
 
 
-![Figure S: . Evolution of PL peak intensity and peak wavelength extracted from](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S5.jpg)
+![Figure S5: . Evolution of PL peak intensity and peak wavelength extracted from](Figure_S5.jpg)
 
 
 --- Page 36 ---
 
 
-Figure S. Interface-specific in situ PL results of MAPbI₃ (1.0 M, DMF) wet film during spin coating. (a) and (b) show the time-resolved PL spectra collected from the top and bottom sides, respectively. (c) and (d) present the evolution of PL peak counts (blue) and peak wavelength (red) extracted from the corresponding spectra in (a) and (b). Compared to the nucleation onset difference (7 s) for 1.7 M MAPbI₃, the difference is significantly reduced to 3.5 s (18.6 s for top and 15.1 s for bottom) at 1.0 M, confirming the upward nucleation event for MAPbI₃. 113 114 115 116 117 118 119 120 121 122 123 124
+Figure S6. Interface-specific in situ PL results of MAPbI₃ (1.0 M, DMF) wet film during spin coating. (a) and (b) show the time-resolved PL spectra collected from the top and bottom sides, respectively. (c) and (d) present the evolution of PL peak counts (blue) and peak wavelength (red) extracted from the corresponding spectra in (a) and (b). Compared to the nucleation onset difference (7 s) for 1.7 M MAPbI₃, the difference is significantly reduced to 3.5 s (18.6 s for top and 15.1 s for bottom) at 1.0 M, confirming the upward nucleation event for MAPbI₃. 113 114 115 116 117 118 119 120 121 122 123 124
 
 
-![Figure S: . Interface-specific in situ PL results of MAPbI₃ (1.0 M, DMF) wet film](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S6.jpg)
+![Figure S6: . Interface-specific in situ PL results of MAPbI3 (1.0 M, DMF) wet film](Figure_S6.jpg)
 
 
 --- Page 37 ---
 
 
-Figure S. Time-resolved integrated PL counts from the bottom-detected in situ PL of MAPbI₃ (1.7 M, DMF) wet film during spin coating, integrated over 500-900 nm. 125 126 127 128 129 130 131
+Figure S7. Time-resolved integrated PL counts from the bottom-detected in situ PL of MAPbI₃ (1.7 M, DMF) wet film during spin coating, integrated over 500-900 nm. 125 126 127 128 129 130 131
 
 
-![Figure S: . Time-resolved integrated PL counts from the bottom-detected in situ PL](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S7.jpg)
+![Figure S7: . Time-resolved integrated PL counts from the bottom-detected in situ PL](Figure_S7.jpg)
 
 
 --- Page 38 ---
 
 
-Figure S. Comparison of the normalized PL spectra at Stage III for 1.7 M and the 1.0 M MAPbI₃ (DMF) wet films. The PL shoulder feature becomes negligible as the precursor concentration decreases, consistent with the formation chemistry of a colloidal soft framework. 132 133 134 135 136 137 138 139
+Figure S8. Comparison of the normalized PL spectra at Stage III for 1.7 M and the 1.0 M MAPbI₃ (DMF) wet films. The PL shoulder feature becomes negligible as the precursor concentration decreases, consistent with the formation chemistry of a colloidal soft framework. 132 133 134 135 136 137 138 139
 
 
-![Figure S: . Comparison of the normalized PL spectra at Stage III for 1.7 M and the](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S8.jpg)
+![Figure S8: . Comparison of the normalized PL spectra at Stage III for 1.7 M and the](Figure_S8.jpg)
 
 
 --- Page 39 ---
 
 
-Figure S. Interface-specific in situ PL results of MAPbI₃ (MAI: PbI₂ = 2:1, DMF) wet film during spin coating. (a) and (b) show the time-resolved PL spectra collected from the top and bottom sides, respectively. (c) and (d) present the evolution of PL peak counts (blue) and peak wavelength (red) extracted from the corresponding spectra in (a) and (b). A lower precursor concentration (1.2 M) is used here because pure DMF can not fully dissolve all the salts for 1.7 M. Compared to 1:1 recipes, a secondary nucleation event is observed after the initial nucleation, evidenced by the later increase in PL intensity and a shift in PL peak position from ~670 nm to ~730 nm. The nuclei formed during this secondary nucleation are more numerous, as indicated by the stronger PL intensity. This secondary nucleation is attributed to the colloidal soft frameworks in the precursor, consistent with the origin of the red-wavelength shoulder in 1:1 recipes, whose formation is enhanced in I-rich environments. 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157
+Figure S9. Interface-specific in situ PL results of MAPbI₃ (MAI: PbI₂ = 2:1, DMF) wet film during spin coating. (a) and (b) show the time-resolved PL spectra collected from the top and bottom sides, respectively. (c) and (d) present the evolution of PL peak counts (blue) and peak wavelength (red) extracted from the corresponding spectra in (a) and (b). A lower precursor concentration (1.2 M) is used here because pure DMF can not fully dissolve all the salts for 1.7 M. Compared to 1:1 recipes, a secondary nucleation event is observed after the initial nucleation, evidenced by the later increase in PL intensity and a shift in PL peak position from ~670 nm to ~730 nm. The nuclei formed during this secondary nucleation are more numerous, as indicated by the stronger PL intensity. This secondary nucleation is attributed to the colloidal soft frameworks in the precursor, consistent with the origin of the red-wavelength shoulder in 1:1 recipes, whose formation is enhanced in I-rich environments. 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157
 
 
-![Figure S: . Interface-specific in situ PL results of MAPbI₃ (MAI: PbI₂ = 2:1, DMF)](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S9.jpg)
+![Figure S9: . Interface-specific in situ PL results of MAPbI3 (MAI: PbI2 = 2:1, DMF)](Figure_S9.jpg)
 
 
 --- Page 40 ---
 
 
-Figure S. Time-resolved integrated PL counts from the top side in situ PL measurement of MAPbI₃ (DMF) wet film during spin coating, integrated over 500900 nm. The initial rapid increase in PL counts (30-50 s) corresponds to the onset of nucleation, while the subsequent gradual increase indicates ongoing nucleation and the continued growth of nuclei formed during the initial event. 158 159 160 161 162 163 164 165 166
+Figure S10. Time-resolved integrated PL counts from the top side in situ PL measurement of MAPbI₃ (DMF) wet film during spin coating, integrated over 500900 nm. The initial rapid increase in PL counts (30-50 s) corresponds to the onset of nucleation, while the subsequent gradual increase indicates ongoing nucleation and the continued growth of nuclei formed during the initial event. 158 159 160 161 162 163 164 165 166
 
 
-![Figure S: . Time-resolved integrated PL counts from the top side in situ PL](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S10.jpg)
+![Figure S10: . Time-resolved integrated PL counts from the top side in situ PL](Figure_S10.jpg)
 
 
 --- Page 41 ---
 
 
-Figure S1. Optical photographs of the (a) top and (b) buried sides of the annealed MAPbI₃ (DMF) film using an anti-solvent-free deposition process. 167 168 169 170
+Figure S11. Optical photographs of the (a) top and (b) buried sides of the annealed MAPbI₃ (DMF) film using an anti-solvent-free deposition process. 167 168 169 170
 
 
-![Figure S1: . Optical photographs of the (a) top and (b) buried sides of the](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S11.jpg)
+![Figure S11: . Optical photographs of the (a) top and (b) buried sides of the](Figure_S11.jpg)
 
 
 --- Page 42 ---
 
 
-Figure S. Interface-specific in situ PL results of MAPbI₃ (DMF) wet film during anti-solvent-assisted spin coating. (a) and (b) show the time-resolved PL spectra collected from the top and bottom sides, respectively. The CB induces nucleation uniformly across the wet film, as evidenced by the comparable PL intensities observed on both the top and bottom sides. 171 172 173 174 175 176 177 178
+Figure S12. Interface-specific in situ PL results of MAPbI₃ (DMF) wet film during anti-solvent-assisted spin coating. (a) and (b) show the time-resolved PL spectra collected from the top and bottom sides, respectively. The CB induces nucleation uniformly across the wet film, as evidenced by the comparable PL intensities observed on both the top and bottom sides. 171 172 173 174 175 176 177 178
 
 
-![Figure S: . Interface-specific in situ PL results of MAPbI₃ (DMF) wet film during](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S12.jpg)
+![Figure S12: . Interface-specific in situ PL results of MAPbI3 (DMF) wet film during](Figure_S12.jpg)
 
 
 --- Page 43 ---
 
 
-Figure S. Time-resolved PL spectra collected from the bottom side of (a) 1.2 M and (b) 1.7 M MAPbI₃ (DMF) wet films during anti-solvent-assisted spin coating. The comparable PL intensity observed in the higher-thickness (high concentration) wet film confirms that the anti-solvent-induced nucleation event occurs throughout the MAPbI₃ (DMF) wet films. 179 180 181 182 183 184 185
+Figure S13. Time-resolved PL spectra collected from the bottom side of (a) 1.2 M and (b) 1.7 M MAPbI₃ (DMF) wet films during anti-solvent-assisted spin coating. The comparable PL intensity observed in the higher-thickness (high concentration) wet film confirms that the anti-solvent-induced nucleation event occurs throughout the MAPbI₃ (DMF) wet films. 179 180 181 182 183 184 185
 
 
-![Figure S: . Time-resolved PL spectra collected from the bottom side of (a) 1.2 M](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S13.jpg)
+![Figure S13: . Time-resolved PL spectra collected from the bottom side of (a) 1.2 M](Figure_S13.jpg)
 
 
 --- Page 44 ---
 
 
-Figure S. Interface-specific in situ PL results of MAPbI₃ (15% v DMSO) wet film during spin coating. (a) and (b) show the time-resolved PL spectra collected from the top and bottom sides, respectively. No PL signals are detected throughout the entire process, indicating that no perovskite phase is formed if no anti-solvent is used. 186 187 188 189 190 191
+Figure S14. Interface-specific in situ PL results of MAPbI₃ (15% v DMSO) wet film during spin coating. (a) and (b) show the time-resolved PL spectra collected from the top and bottom sides, respectively. No PL signals are detected throughout the entire process, indicating that no perovskite phase is formed if no anti-solvent is used. 186 187 188 189 190 191
 
 
-![Figure S: . Interface-specific in situ PL results of MAPbI₃ (15% v DMSO) wet film](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S14.jpg)
+![Figure S14: . Interface-specific in situ PL results of MAPbI3 (15% v DMSO) wet film](Figure_S14.jpg)
 
 
 --- Page 45 ---
 
 
-Figure S. Quasi in situ XRD patterns of MAPbI₃ (DMSO) as-cast films after (a) 10 s, (b) 20 s, and (c) 250 s of spin coating. The MAPbI₃-DMSO intermediate phase is indicated by blue Δ, and PbI₂ is marked by blue *. No signals from the perovskite phase are detected at any stage; only the crystalline intermediate phase and PbI₂ are present in the wet films. These results confirm the formation of a stable intermediate phase in the wet film as early as 10 s into the spin-coating process. 192 193 194 195 196 197 198 199
+Figure S15. Quasi in situ XRD patterns of MAPbI₃ (DMSO) as-cast films after (a) 10 s, (b) 20 s, and (c) 250 s of spin coating. The MAPbI₃-DMSO intermediate phase is indicated by blue Δ, and PbI₂ is marked by blue *. No signals from the perovskite phase are detected at any stage; only the crystalline intermediate phase and PbI₂ are present in the wet films. These results confirm the formation of a stable intermediate phase in the wet film as early as 10 s into the spin-coating process. 192 193 194 195 196 197 198 199
 
 
-![Figure S: . Quasi in situ XRD patterns of MAPbI₃ (DMSO) as-cast films after (a)](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S15.jpg)
+![Figure S15: . Quasi in situ XRD patterns of MAPbI3 (DMSO) as-cast films after (a)](Figure_S15.jpg)
 
 
 --- Page 46 ---
 
 
-Figure S. Optical photographs of the (a) top and (b) buried sides of the annealed MAPbI₃ (DMSO) film using an anti-solvent-free deposition process. 200 201 202 203
+Figure S16. Optical photographs of the (a) top and (b) buried sides of the annealed MAPbI₃ (DMSO) film using an anti-solvent-free deposition process. 200 201 202 203
 
 
-![Figure S: . Optical photographs of the (a) top and (b) buried sides of the](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S16.jpg)
+![Figure S16: . Optical photographs of the (a) top and (b) buried sides of the](Figure_S16.jpg)
 
 
 --- Page 47 ---
 
 
-Figure S. Interface-specific in situ PL results of MAPbI₃ (15% v DMSO) wet film during anti-solvent-assisted spin coating. Panels (a) and (b) show the time-resolved PL spectra collected from the top and bottom sides, respectively. The bottom PL intensity is significantly lower than that of the top, indicating fewer nuclei are formed at the bottom interface. This observation is consistent with the limited-thickness nucleation model, where CB anti-solvent confines nucleation primarily to the upper region of the film. 204 205 206 207 208 209 210 211 212
+Figure S17. Interface-specific in situ PL results of MAPbI₃ (15% v DMSO) wet film during anti-solvent-assisted spin coating. Panels (a) and (b) show the time-resolved PL spectra collected from the top and bottom sides, respectively. The bottom PL intensity is significantly lower than that of the top, indicating fewer nuclei are formed at the bottom interface. This observation is consistent with the limited-thickness nucleation model, where CB anti-solvent confines nucleation primarily to the upper region of the film. 204 205 206 207 208 209 210 211 212
 
 
-![Figure S: . Interface-specific in situ PL results of MAPbI₃ (15% v DMSO) wet film](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S17.jpg)
+![Figure S17: . Interface-specific in situ PL results of MAPbI3 (15% v DMSO) wet film](Figure_S17.jpg)
 
 
 --- Page 48 ---
 
 
-Figure S. Quasi in situ XRD patterns of FA0.9Cs0.1PbI3 as-cast film after (a) 5 s, (b) 20 s, (c) 50 s, (d) 70s, (e) 130 s, (f) 270 s, and (g) 400 s of spin coating. The intermediate phase is indicated by blue Δ, and the δ-phase perovskite by blue δ. By 50 s, the intermediate phase signal decreases while the δ-phase signal increases, indicating its transformation to the δ-phase. At later times, a new crystalline intermediate phase emerges, which similarly converts to the δ-phase between 70 s and 270 s. At 140s (the nucleation onset recovered by the in situ PL measurement), the wet film mainly consists of crystalline δ-phase and amorphous sol-gel phase. From 270 s to 400 s, the δ-phase intensity diminishes, suggesting its further transformation to other phases. No α-phase signal is detected throughout the process, despite its detection by in situ PL, highlighting the higher sensitivity of optical techniques for tracking perovskite crystallization. 213 214 215 216 217 218 219 220 221 222 223 224 225 226
+Figure S18. Quasi in situ XRD patterns of FA0.9Cs0.1PbI3 as-cast film after (a) 5 s, (b) 20 s, (c) 50 s, (d) 70s, (e) 130 s, (f) 270 s, and (g) 400 s of spin coating. The intermediate phase is indicated by blue Δ, and the δ-phase perovskite by blue δ. By 50 s, the intermediate phase signal decreases while the δ-phase signal increases, indicating its transformation to the δ-phase. At later times, a new crystalline intermediate phase emerges, which similarly converts to the δ-phase between 70 s and 270 s. At 140s (the nucleation onset recovered by the in situ PL measurement), the wet film mainly consists of crystalline δ-phase and amorphous sol-gel phase. From 270 s to 400 s, the δ-phase intensity diminishes, suggesting its further transformation to other phases. No α-phase signal is detected throughout the process, despite its detection by in situ PL, highlighting the higher sensitivity of optical techniques for tracking perovskite crystallization. 213 214 215 216 217 218 219 220 221 222 223 224 225 226
 
 
-![Figure S: . Quasi in situ XRD patterns of FA0.9Cs0.1PbI3 as-cast film after (a) 5 s,](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S18.jpg)
+![Figure S18: . Quasi in situ XRD patterns of FA0.9Cs0.1PbI3 as-cast film after (a) 5 s,](Figure_S18.jpg)
 
 
 --- Page 49 ---
 
 
-100 150 200 250 300 0 1 2 3 4 PL counts (×104) Time (s) Top Bottom Spin coating @ FACs Figure S. Time-resolved PL peak intensity detected from the top (blue) and bottom (red) sides of FA0.9Cs0.1PbI3 wet film during spin coating. 227 228 229 230 231
+100 150 200 250 300 0 1 2 3 4 PL counts (×104) Time (s) Top Bottom Spin coating @ FACs Figure S19. Time-resolved PL peak intensity detected from the top (blue) and bottom (red) sides of FA0.9Cs0.1PbI3 wet film during spin coating. 227 228 229 230 231
 
 
-![Figure S: . Time-resolved PL peak intensity detected from the top (blue) and](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S19.jpg)
+![Figure S19: . Time-resolved PL peak intensity detected from the top (blue) and](Figure_S19.jpg)
 
 
 --- Page 50 ---
 
 
-Figure S. Evolution of PL peak intensity and peak wavelength extracted from the (a) top- and (b) bottom-detected in situ spectra of FA0.9Cs0.1PbI3 wet film during spin coating. 232 233 234 235 236 237
+Figure S20. Evolution of PL peak intensity and peak wavelength extracted from the (a) top- and (b) bottom-detected in situ spectra of FA0.9Cs0.1PbI3 wet film during spin coating. 232 233 234 235 236 237
 
 
-![Figure S: . Evolution of PL peak intensity and peak wavelength extracted from](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S20.jpg)
+![Figure S20: . Evolution of PL peak intensity and peak wavelength extracted from](Figure_S20.jpg)
 
 
 --- Page 51 ---
 
 
-Figure S1. Representative deconvolution results of the in situ PL spectra of FA0.9Cs0.1PbI3 wet film. These illustrate the method used to quantify the ratio of small nuclei to large crystals. The tail region of the original in-situ PL spectra was fitted using a Gaussian function with a fixed peak position, and the area under this Gaussian function was assigned to the contribution from large crystals. The contribution from small nuclei was then determined by subtracting the large-crystal Gaussian area from the total integrated PL spectral area. 238 239 240 241 242 243 244 245 246
+Figure S21. Representative deconvolution results of the in situ PL spectra of FA0.9Cs0.1PbI3 wet film. These illustrate the method used to quantify the ratio of small nuclei to large crystals. The tail region of the original in-situ PL spectra was fitted using a Gaussian function with a fixed peak position, and the area under this Gaussian function was assigned to the contribution from large crystals. The contribution from small nuclei was then determined by subtracting the large-crystal Gaussian area from the total integrated PL spectral area. 238 239 240 241 242 243 244 245 246
 
 
-![Figure S1: . Representative deconvolution results of the in situ PL spectra of](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S21.jpg)
+![Figure S21: . Representative deconvolution results of the in situ PL spectra of](Figure_S21.jpg)
 
 
 --- Page 52 ---
 
 
-Figure S2. Interface-specific in situ PL results of (a-b) pristine, (c-d) MACl, and (e-f) DMPU FA0.9Cs0.1PbI3 perovskite wet films during anti-solvent-assisted spin coating. Panels (a, c, e) show the time-resolved PL spectra collected from the top surface, while panels (b, d, f) present spectra from the bottom surface. 247 248 249 250 251 252 253 254
+Figure S22. Interface-specific in situ PL results of (a-b) pristine, (c-d) MACl, and (e-f) DMPU FA0.9Cs0.1PbI3 perovskite wet films during anti-solvent-assisted spin coating. Panels (a, c, e) show the time-resolved PL spectra collected from the top surface, while panels (b, d, f) present spectra from the bottom surface. 247 248 249 250 251 252 253 254
 
 
-![Figure S2: . Interface-specific in situ PL results of (a-b) pristine, (c-d) MACl, and](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S22.jpg)
+![Figure S22: . Interface-specific in situ PL results of (a-b) pristine, (c-d) MACl, and](Figure_S22.jpg)
 
 
 --- Page 53 ---
 
 
-Figure S. Interface-specific in situ PL results of FA0.85MA0.1Cs0.05PbI3   perovskite wet film during anti-solvent-assisted spin coating. Panels (a) and (b) show the timeresolved PL spectra collected from the top and bottom sides, respectively. The bottom PL response is significantly weaker than the top one, indicating the limited-thickness nucleation process induced by CB. These results demonstrate that the proposed nucleation model is also applicable to three-cation perovskite compositions. 255 256 257 258 259 260 261 262
+Figure S23. Interface-specific in situ PL results of FA0.85MA0.1Cs0.05PbI3   perovskite wet film during anti-solvent-assisted spin coating. Panels (a) and (b) show the timeresolved PL spectra collected from the top and bottom sides, respectively. The bottom PL response is significantly weaker than the top one, indicating the limited-thickness nucleation process induced by CB. These results demonstrate that the proposed nucleation model is also applicable to three-cation perovskite compositions. 255 256 257 258 259 260 261 262
 
 
-![Figure S: . Interface-specific in situ PL results of FA0.85MA0.1Cs0.05PbI3   perovskite](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S23.jpg)
+![Figure S23: . Interface-specific in situ PL results of FA0.85MA0.1Cs0.05PbI3   perovskite](Figure_S23.jpg)
 
 
 --- Page 54 ---
 
 
-Figure S. Interface-specific in situ PL results of FA0.75MA0.159Cs0.1PbBr0.51I2.49 perovskite wet film during anti-solvent-assisted spin coating. Panels (a) and (b) show the time-resolved PL spectra collected from the top and bottom sides, respectively. The bottom PL response is still significantly weaker than the top one, indicating the limited-thickness nucleation induced by CB. These results demonstrate that the proposed nucleation model is also applicable to low-Br mixed-halide perovskite compositions. 263 264 265 266 267 268 269 270
+Figure S24. Interface-specific in situ PL results of FA0.75MA0.159Cs0.1PbBr0.51I2.49 perovskite wet film during anti-solvent-assisted spin coating. Panels (a) and (b) show the time-resolved PL spectra collected from the top and bottom sides, respectively. The bottom PL response is still significantly weaker than the top one, indicating the limited-thickness nucleation induced by CB. These results demonstrate that the proposed nucleation model is also applicable to low-Br mixed-halide perovskite compositions. 263 264 265 266 267 268 269 270
 
 
-![Figure S: . Interface-specific in situ PL results of FA0.75MA0.159Cs0.1PbBr0.51I2.49](https://raw.githubusercontent.com/viecharlie/MD_images/main/Yue26/Figure_S24.jpg)
+![Figure S24: . Interface-specific in situ PL results of FA0.75MA0.159Cs0.1PbBr0.51I2.49](Figure_S24.jpg)
