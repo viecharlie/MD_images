@@ -3,13 +3,7 @@
 --- Page 1 ---
 
 
-## Interface-Specific In Situ Photoluminescence
-
-
-## Resolves Depth-Dependent Crystallization in
-
-
-## Solution-Processed Metal Halide Perovskites
+## Interface-Specific In Situ Photoluminescence Resolves Depth-Dependent Crystallization in Solution-Processed Metal Halide Perovskites
 
 
 Sai Wing Tsang City University of Hong Kong https://orcid.org/0000-0003-0788-4905 Ziyao YUE City University of Hong Kong Yuanhang CHENG Nanjing University of Science and Technology Yunfan WANG City University of Hong Kong Article Keywords: Posted Date: August 21st, 2026 DOI: https://doi.org/10.21203/rs.3.rs-10595489/v1 License:   This work is licensed under a Creative Commons Attribution 4.0 International License. Read Full License Additional Declarations: There is no conflict of interest Page 1/26
@@ -39,10 +33,7 @@ halodo(poly)plumbates,26 have also attracted increasing attention in controlling
 ### Results
 
 
-## Distinct interfacial crystallization kinetics in MAPbI3 thin
-
-
-## films
+## Distinct interfacial crystallization kinetics in MAPbI3 thin films
 
 
 Page 3/26
@@ -72,10 +63,7 @@ After 50 s, the PL signals become relatively stable at both interfaces. The bott
 rich lower region. Owing to the higher local energy of intermediate-phase species near the substrate, these species transform into the perovskite phase first, initiating nucleation at the buried interface and leading to upward crystallization. Following nucleation, nuclei in the upper region grow progressively as DMF molecules evaporate from the wet film. Additional nuclei also form gradually during crystal growth. Notably, three phase-transition processes are identified during this crystallization process: the transition from the sol–gel phase to the crystalline intermediate phase, the transition from the intermediate phase to perovskite nuclei, and the transition from sol–gel-derived colloidal octahedral polyplumbate soft frameworks to perovskite nuclei. All three processes initiate near the buried interface, indicating that interactions with the substrate interface enhance the crystallization propensity of species in the buried interfacial region. Overall, these results reveal distinct interfacial crystallization dynamics at the top surface and buried interface and establish a direct correlation between precursor-species evolution and depth-dependent crystallization dynamics in MAPbI3 (DMF) wet films. Because this heterogeneity arises from depth-dependent chemical environments within the film, it provides valuable depth-resolved information for understanding crystallization kinetics in other deposition approaches.
 
 
-### Heterogeneous crystallization in anti-solvent-assisted MAPbI3 film
-
-
-### formation
+### Heterogeneous crystallization in anti-solvent-assisted MAPbI3 film formation
 
 
 The prolonged anti-solvent-free process described above yields poor film quality. As shown in Fig. S11, optical photographs of the top and bottom surfaces of the resulting film exhibit pronounced macroscopic nonuniformity and a lighter, grayish-white appearance. These observations indicate that the anti-solvent-free film suffers from limited perovskite crystal growth and severe spatial heterogeneity. To shed light on the correlation between the quality of perovskite films and their depth-dependent crystallization kinetics, we further investigated the anti-solvent-assisted crystallization of MAPbI3 in pure DMF solution. Chlorobenzene (CB) was used as the anti-solvent and dripped onto the spinning wet film at approximately 8 s after the start of spin coating. Figure 2a summarizes the evolution of the top- and bottom-detected PL peak intensities after CB dripping, while the corresponding interface-specific in situ PL spectral evolution is shown in Fig. S12. In contrast to the case without an anti-solvent, a rapid increase in the PL signal is observed from both the top and buried sides immediately after CB dripping, indicating prompt perovskite nucleation throughout the wet film. During the first 3 s after CB dripping, the PL intensities detected from the top and bottom sides remain comparable, suggesting that anti-solvent extraction induces a similar initial nucleation density throughout the film. As CB is progressively removed by spin-off and evaporation, the top-detected PL intensity continues to increase rapidly, indicating further nucleation at the film surface. Meanwhile, the bottom-detected PL intensity also increases gradually, suggesting the continuous transformation of relatively undisturbed intermediate phases at the buried interface into perovskite nuclei. Similarly, this whole-film nucleation behavior is also observed in thicker wet films, as shown in Fig. S13, where the bottom-detected PL intensities of the 1.2 M and 1.7 M precursor films are comparable, further confirming that CB-induced nucleation occurs throughout the MAPbI3 (DMF) wet film. This finding argues against the previous general belief that the anti-solventPage 7/26
@@ -117,10 +105,7 @@ Stage I (0–140 s): embryonic stage. No PL signal is detected from either inter
 residual solvent and the preformed δ-phase near the buried interface restrict ion mobility and retard particle attachment. Stage IV (after 270 s) phase transition stage. As shown in Fig. 4c, d, a rapid increase in the bottom-detected PL intensity is observed during this stage, whereas only a slight PL enhancement occurs in the top-detected PL. Combined with the quasi in situ XRD results of the as-cast films (Fig. S18), this pronounced bottom-side PL increase can be assigned to the conversion of δ-phase into the emissive α-phase near the buried interface. Specifically, the δ-phase diffraction intensity at 400 s is largely reduced as compared to that at 270 s, confirming that partial δ-to-α phase conversion occurs during this period. However, the δ-phase diffraction signal remains strong even at 400 s, indicating that a considerable amount of δ-phase persists in the film. Therefore, the rapid PL enhancement from the bottom side does not reflect a complete δ-to-α transition throughout the film, but rather suggests that the δ-phase near the buried interface is more prone to α-phase conversion. Based on these results, a crystallization model for FA0.9Cs0.1PbI3 wet film is summarized in Fig. 4e. Four distinct phase transitions are identified during spin coating: (1) sol–gel to intermediate phase, (2) intermediate to δ-phase, (3) sol–gel to α-phase, and (4) δ-phase to α-phase. Notably, except for the initial α-phase nucleation from the sol–gel phase, the other transformations originate near the buried interface. This higher propensity of buried-interface species for crystallization is consistent with MAPbI3 systems, in which all observed phase transitions initiate near the buried interface. Therefore, despite distinct nucleation pathways being observed in MA- and FA-based perovskite wet films, species near the buried interface are more labile and more susceptible to structural transformation in both systems. These findings highlight the critical importance of controlling the buried-interface species to achieve highquality perovskite films.
 
 
-### Heterogeneous crystallization in anti-solvent-assisted FA0.9Cs0.1PbI3
-
-
-### film formation
+### Heterogeneous crystallization in anti-solvent-assisted FA0.9Cs0.1PbI3 film formation
 
 
 Following the measurement routine established above for MAPbI3, we investigated the crystallization in FA0.9Cs0.1PbI3 during anti-solvent processing to elucidate the depth-dependent crystallization kinetics in high-quality film fabrication. We compared the process using only the pristine precursor, the precursor with MACl additive, and the precursor with both MACl and DMPU additives, hereafter referred to as pristine, MACl, and DMPU, respectively. Figure 5a–c show the evolution of the top- and bottom-detected PL peak intensities for these three systems after CB dripping, and the corresponding in situ PL spectral evolution is presented in Fig. S22. In all three systems, the bottom-detected PL intensity is at least one order of magnitude lower than the top-detected PL intensity, indicating that CB-induced α-phase nucleation mainly occurs in the upper region of the film, similar to that observed in the MAPbI3 (DMSO) system. Page 12/26
@@ -372,13 +357,7 @@ This is a list of supplementary files associated with this preprint. Click to do
 Supplementary Information for
 
 
-### Interface-Specific In Situ Photoluminescence Resolves
-
-
-### Depth-Dependent Crystallization in Solution-Processed
-
-
-### Metal Halide Perovskites
+### Interface-Specific In Situ Photoluminescence Resolves Depth-Dependent Crystallization in Solution-Processed Metal Halide Perovskites
 
 
 Ziyao Yue (岳子尧)1, Yuanhang Cheng (程远航)2, Yunfan Wang (王云帆)1,*, Sai-Wing Tsang (曾世榮)1,3,4, * 1Department of Materials Science and Engineering, City University of Hong Kong, Kowloon, Hong Kong SAR 999077, P.R. China 2School of New Energy, Nanjing University of Science and Technology, Jiangyin, Jiangsu 214443, P.R. China 3Hong Kong Institute for Clean Energy, City University of Hong Kong, Kowloon, Hong Kong SAR 999077, P.R. China 4Center of Super-Diamond and Advanced Films (COSDAF), City University of Hong Kong, Hong Kong SAR 999077, P.R. China Email: ziyaoyue2-c@my.cityu.edu.hk (Z. Y.), yhcheng@njust.edu.cn (Y. C.), yunfawang2-c@my.cityu.edu.hk (Y. W.), saitsang@cityu.edu.hk (S-W. T.) *Corresponding: yunfawang2-c@my.cityu.edu.hk, +86-15208414946 (Y. W.); saitsang@cityu.edu.hk, +852-34424618 (S-W. T.) 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
